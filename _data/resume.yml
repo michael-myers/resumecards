@@ -1,12 +1,12 @@
 # IMPORTANT: Set this to false.
-demo: true
+demo: false
 
 # Theme customization is done on this file instead of _config.yml so that
 # you don't have to restart Jekyll to see changes.
 
-photo: "https://avatars0.githubusercontent.com/u/2410692?v=2&s=150"
-name: "Elle Kasai"
-copy: "I'm a product designer based in BC, Canada. I'm currently working for Actcat which makes a code reviewing service called SideCI (https://sideci.com/)."
+photo: "https://avatars0.githubusercontent.com/u/5177188?v=3&s=460"
+name: "Michael Myers"
+copy: "I am a security researcher based in the Washington D.C. area, with over 15 years experience supporting our country's national security communities. I have led and contributed to projects in Embedded Systems Development and Exploitation, Malware Analysis, Code Security Audits, Threat Modeling, Vulnerability Research, Reverse Engineering, and Software Engineering. In 2017 I began independent work on personal and professional development goals. Currently not seeking full-time employment. Interested in remote-work short-term projects and learning opportunities."
 
 # Color scheme based on http://www.materialui.co/colors.
 # Possible values:
